@@ -1,9 +1,9 @@
-# HATS-2026-06-24-881aa86 [NOEMUCFW]
+# HATS-2026-06-26-9c09b6a [NOEMUCFW]
 # HATS Pack Summary
 
-**Generated on:** 24-06-2026 23:21:40 UTC  
+**Generated on:** 26-06-2026 09:10:49 UTC  
 **Builder Version:** 2.0.2-GUI  
-**Content Hash:** 881aa86  
+**Content Hash:** 9c09b6a  
 **Supported Firmware:** Up to 22.5.0  
 
 ---
@@ -30,11 +30,10 @@
 - **imgui-smash** (v1.0.0) - Coolsonickirby/imgui-smash
 - **nro-hook-plugin** (v0.4.0) - ultimate-research/nro-hook-plugin
 - **smashline** (v1.6.6) - HDR-Development/smashline
-- **ssbu-online-deluxe** (v1.1.1) - saad-script/ssbu-online-deluxe
+- **ssbu-online-deluxe** (v1.1.2) - saad-script/ssbu-online-deluxe
 - **ssbu-pia-interface** (v1.0.0) - project-ultelier/ssbu-pia-interface
 
 ### HOMEBREW APPS
-- **Daybreak** (1.0.0) - sthetix/daybreak
 - **Goldleaf** (1.2.0) - XorTroll/Goldleaf
 - **HATS-Tools-noemucfw** (1.7.0) - sthetix/HATS-Tools
 - **JKSV** (12/02/2025) - J-D-K/JKSV
