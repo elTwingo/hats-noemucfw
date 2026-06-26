@@ -1,10 +1,22 @@
 # HATS-2026-06-26-9c09b6a [NOEMUCFW]
 # HATS Pack Summary
 
-**Generated on:** 26-06-2026 10:24:42 UTC  
+**Generated on:** 26-06-2026 13:45:17 UTC  
 **Builder Version:** 2.0.2-GUI  
 **Content Hash:** 9c09b6a  
 **Supported Firmware:** Up to 22.5.0  
+
+---
+
+## CHANGELOG (What's New Since Last Build)
+
+### New Components Added:
+- **HATS-Tools-noemucfw** (1.7.0)
+- **Hekatos-noemucfw** (6.5.3)
+
+### Components Removed:
+- **HATS-Tools** (1.7.0)
+- **Hekatos** (6.5.3)
 
 ---
 
