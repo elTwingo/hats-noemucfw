@@ -1,22 +1,10 @@
-# HATS-2026-06-26-9c09b6a [NOEMUCFW]
+# HATS-2026-07-13-f5d2b1a [NOEMUCFW]
 # HATS Pack Summary
 
-**Generated on:** 26-06-2026 13:45:17 UTC  
+**Generated on:** 13-07-2026 13:47:13 UTC  
 **Builder Version:** 2.0.2-GUI  
-**Content Hash:** 9c09b6a  
+**Content Hash:** f5d2b1a  
 **Supported Firmware:** Up to 22.5.0  
-
----
-
-## CHANGELOG (What's New Since Last Build)
-
-### New Components Added:
-- **HATS-Tools-noemucfw** (1.7.0)
-- **Hekatos-noemucfw** (6.5.3)
-
-### Components Removed:
-- **HATS-Tools** (1.7.0)
-- **Hekatos** (6.5.3)
 
 ---
 
@@ -30,12 +18,12 @@
 - **imgui-smash** (v1.0.0) - Coolsonickirby/imgui-smash
 - **nro-hook-plugin** (v0.4.0) - ultimate-research/nro-hook-plugin
 - **smashline** (v1.6.6) - HDR-Development/smashline
-- **ssbu-online-deluxe** (v1.1.2) - saad-script/ssbu-online-deluxe
+- **ssbu-online-deluxe** (v1.1.3) - saad-script/ssbu-online-deluxe
 - **ssbu-pia-interface** (v1.0.0) - project-ultelier/ssbu-pia-interface
 
 ### HOMEBREW APPS
 - **Goldleaf** (1.2.0) - XorTroll/Goldleaf
-- **HATS-Tools-noemucfw** (1.7.0) - sthetix/HATS-Tools
+- **HATS-Tools-noemucfw** (1.7.1) - sthetix/HATS-Tools
 - **JKSV** (12/02/2025) - J-D-K/JKSV
 - **Linkalho** (v2.0.2) - impeeza/linkalho
 - **Sphaira** (1.0.0) - ITotalJustice/sphaira
