@@ -1,10 +1,22 @@
-# HATS-2026-07-13-f5d2b1a [NOEMUCFW]
+# HATS-2026-07-25-5a9872f [NOEMUCFW]
 # HATS Pack Summary
 
-**Generated on:** 13-07-2026 13:47:13 UTC  
+**Generated on:** 25-07-2026 11:45:43 UTC  
 **Builder Version:** 2.0.2-GUI  
-**Content Hash:** f5d2b1a  
+**Content Hash:** 5a9872f  
 **Supported Firmware:** Up to 22.5.0  
+
+---
+
+## CHANGELOG (What's New Since Last Build)
+
+### New Components Added:
+- **HATS-Tools-noemucfw** (1.7.2)
+- **Hekatos-noemucfw** (6.5.3)
+
+### Components Removed:
+- **HATS-Tools** (1.7.1)
+- **Hekatos** (6.5.3)
 
 ---
 
@@ -18,12 +30,12 @@
 - **imgui-smash** (v1.0.0) - Coolsonickirby/imgui-smash
 - **nro-hook-plugin** (v0.4.0) - ultimate-research/nro-hook-plugin
 - **smashline** (v1.6.6) - HDR-Development/smashline
-- **ssbu-online-deluxe** (v1.1.3) - saad-script/ssbu-online-deluxe
-- **ssbu-pia-interface** (v1.0.0) - project-ultelier/ssbu-pia-interface
+- **ssbu-online-deluxe** (v1.2.0) - saad-script/ssbu-online-deluxe
+- **ssbu-pia-interface** (v1.1.0) - project-ultelier/ssbu-pia-interface
 
 ### HOMEBREW APPS
 - **Goldleaf** (1.2.0) - XorTroll/Goldleaf
-- **HATS-Tools-noemucfw** (1.7.1) - sthetix/HATS-Tools
+- **HATS-Tools-noemucfw** (1.7.2) - sthetix/HATS-Tools
 - **JKSV** (12/02/2025) - J-D-K/JKSV
 - **Linkalho** (v2.0.2) - impeeza/linkalho
 - **Sphaira** (1.0.0) - ITotalJustice/sphaira
@@ -31,7 +43,7 @@
 
 ### PAYLOADS
 - **FuseCheck** (1.0.4) - sthetix/FuseCheck
-- **Lockpick_RCM_Pro** (2.0.3) - sthetix/Lockpick_RCM_Pro
+- **Lockpick_RCM_Pro** (2.1.0) - sthetix/Lockpick_RCM_Pro
 
 ### TESLA OVERLAYS
 - **Sys-patch** (v1.6.2.3) - borntohonk/sys-patch
